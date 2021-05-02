@@ -9,7 +9,7 @@
 
 #Parent class
 class User:
-    def __init__(self, name, age, gender): #holds details about the users
+    def __init__(self, name, age, gender): #holds details about the user
         self.name = name
         self.age = age
         self.gender = gender
