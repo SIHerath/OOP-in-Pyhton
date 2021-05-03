@@ -1,1 +1,1 @@
-**This is Basics of OOP in Python**
+**Basics of OOP in Python**
